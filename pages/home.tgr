@@ -1,0 +1,11 @@
+import css : style.css
+
+## : block : class[block] onmousedown[grab(event, this)] onmouseup[ungrab()]
+## :     :: Grab Me
+## : /block
+
+block : class[board]
+
+
+    
+/block
